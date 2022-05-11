@@ -12,16 +12,7 @@
   "profile": {
     "name": "typicode"
   },
-  "commande":[
-    {
-      "libelle": "burger",
-      "etat": "en cours",
-      "montant": 1234,
-      "date": "2022-05-10T00:00:00.000Z",
-      "id": 1
-    }
-
-  ],
+  
   "client":[
     {
       "fullname": "Adama Mbaye",
