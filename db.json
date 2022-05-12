@@ -19,11 +19,7 @@
       "email": "adama1",
       "password": "123",
       "mobile": 123456,
-      "commande":[{
-        "libelle":"buurger",
-        "etat":"en cours",
-        "montant":1234,
-        "date":"2022-05-10T00:00:00.000Z",
+      
         
         "idComClient":1
       }
